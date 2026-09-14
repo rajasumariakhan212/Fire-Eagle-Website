@@ -79,8 +79,8 @@ img{max-width:100%;display:block}
 .inner-copy ul{margin:0;padding-left:22px;font-size:16px;line-height:1.9;color:#555}.inner-copy li{margin:0 0 3px}
 .about-img{background-image:url('https://fireeagleuae.com/img/home-info.png')}
 .mission-img{background-image:url('https://fireeagleuae.com/images-slider/img-slide-2a.jpg')}
-.expectation-img{background-image:url('../assets/expectation-reference.jpg')}
-.contracting-img{background-image:url('../assets/contracting-reference.jpg')}
+.expectation-img{background-image:url('expectation-reference.jpg')}
+.contracting-img{background-image:url('contracting-reference.jpg')}
 .maintenance-img{background-image:url('https://fireeagleuae.com/images-slider/img-slide-2a.jpg')}
 .projects{padding:48px 6% 72px;background:#fff}
 .project-heading{display:flex;align-items:flex-end;margin:0 0 54px;border-bottom:1px solid #ddd}
